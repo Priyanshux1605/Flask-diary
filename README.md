@@ -8,7 +8,7 @@ Welcome to Daily Jotter! This is a simple, clean, and functional web application
 *   **View All Entries:** A dedicated page that dynamically displays all past entries in a clean, card-based layout, sorted with the newest entry first.
 *   **Persistent Storage:** Entries are permanently saved in a robust SQLite database.
 *   **User-Friendly Flow:** Clear navigation, including a success confirmation page after an entry is saved and links to move between the entry form and the viewing page.
-*   **Delete Entries (Coming Soon/Optional):** The application can be extended with a feature to delete entries.
+*   **Delete Entries (Optional):** The application can be extended with a feature to delete entries.
 
 ---
 
